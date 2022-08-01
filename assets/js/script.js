@@ -15,7 +15,7 @@ y asterisco diagonal para cerrar*/
 
 
 //Pedimos informacion de ususario con un prompt, la guardamos en una variable llamada nombre para despues mostrarla
-nombre a prompt ("¿Cómo te llamas?");
+nombre = prompt ("¿Cómo te llamas?");
 
 //Usamos una console.log para mostar lo que se guarda en la variable llamada nombre 
 console.log(nombre); 
