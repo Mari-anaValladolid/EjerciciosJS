@@ -255,7 +255,7 @@ console.log(mezcla.toString());
 
 
 //valueOf :(buscar que valor tiene tal indice) traernos el valor del arreglo 
-console.log("Que es esto? Nalguitas sabrosas???", dulces.valueOf());
+console.log("Que es esto? ", dulces.valueOf());
 //valueOf(): Nos permite devolver el valor a nuestro arreglo
 console.log(mezcla.valueOf());
 
@@ -334,7 +334,7 @@ ESTE METODO NO CAMBIA EL ARREGLO ORIGINAL, DEVUELVE UNO NUEVO CON LOS ELEMENTOS 
 
 //Ejemplo para remover el primer numero impar de un arreglo
 
-let listaNumeros = [3, 6, 8, 10, 12,];
+let listaNumeros = [4,3, 6, 8, 10, 12,3];
 let impar = 3;
 
 listaNumeros.forEach(function(numero){ //por cada elemento del arreglo, ejecuta la funcion

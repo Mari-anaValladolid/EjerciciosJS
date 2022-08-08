@@ -62,10 +62,10 @@ pulmones
 
 
 
-function respira
-function dormir
-function comentario
-function prepararTaquitos
+// function respira
+// function dormir
+// function comentario
+// function prepararTaquitos
 
 
 
